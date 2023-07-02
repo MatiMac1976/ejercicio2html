@@ -1,0 +1,15 @@
+p{
+    font-family: Poppins;
+    font-size: 24pt;
+    color: #0a2ff1;
+    font-weight: lighter;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+.img{
+    width: 100px;
+    vertical-align: middle;
+    margin-left: 30px;
+}
